@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://yangguangzhao-hnu.github.io/ygz.jpg" class="floatpic" width="360" height="480">
+<img src="https://yangguangzhao-hnu.github.io/ygz.jpg" class="floatpic" width="360" height="480">
 
 Here is **Guangzhao Yang(杨光照)**.
 
