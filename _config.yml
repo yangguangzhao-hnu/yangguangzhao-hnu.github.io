@@ -20,10 +20,7 @@ links:
     url: /file/CV-ygz.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
+
 
 timezone: China/Beijing
 future: true
