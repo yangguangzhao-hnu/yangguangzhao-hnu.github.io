@@ -4,7 +4,7 @@ url: https://ruixin.com
 # Owner/author information
 owner:
   name: Guangzhao Yang
-  avatar: https://yangguangzhao-hnu.github.io/ygz-small.png
+  avatar: ygz-small.png
  # bio:
   email: yangguangzhao@139.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -16,15 +16,13 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/CV-ygz.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
   - title: Blogs
     url: /blogs/
 
